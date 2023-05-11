@@ -52,5 +52,6 @@ Predictive Modelling for Urban Growth using AI
 - Visualization     - Folder to store dashboards, analysis and visualization reports
 - Results           - Folder to store final analysis modelling results for the project.
 
-
-
+## Resources
+* Omdena Local Chapter Challenge Link [here](https://omdena.com/projects/inpredictive-modelling-for-urban-growth/)
+* Omdena Official Gihub Link for this project [here](https://github.com/OmdenaAI/nairobi-chapter-urban-growth)
